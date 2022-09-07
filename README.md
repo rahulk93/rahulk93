@@ -6,7 +6,7 @@ Now, I aspire to take my knowledge and skills into innovation and programming. I
 
 I have completed my Bachelor of Applied Information Technology majoring in Software Development degree at Toi Ohomai Institute of Technology. As a supplement to my degree I have also undertaken courses via Codecademy, Datacamp, W3Schools and Exercism websites. In Exercism website, I have been practicing C#, JavaScript, Java, Python and PL/SQL coding exercises. As part of studying cloud computing, I pursuing certifications in Microsoft Azure and Amazon Web Services. 
 
-In my GitHub portfolio, you will find C#, Java and React.js repositories. Most of my C# repositories are results of me completing various courses in my Bachelor of Applied Information Technology majoring in Software Development degree at Toi-Ohomai Institute of Technology. On the hand, my React.js and Java repositories are results of me completing research based courses such as COMP.6214 Project 2 and GENR.7100 Project at Toi-Ohomai. This is also highlighted on my resume especially project experience section.          
+In my GitHub portfolio, you will find C#, Java and React.js repositories. Most of my C# repositories are results of me completing various courses in my Bachelor of Applied Information Technology majoring in Software Development degree at Toi-Ohomai Institute of Technology. On the hand, my React.js and Java repositories are results of me completing research based courses such as COMP.6214 Project 2 and GENR.7100 Project at Toi-Ohomai. This is also highlighted on my resume under especially project experience section.          
 
 How to contact me:
 
