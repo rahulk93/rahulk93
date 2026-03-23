@@ -1,6 +1,4 @@
-I am a graduate software developer looking a job in IT industry. I specialize in C#, Java programming language, producing React.js and Front-end websites. My name is Rahul Khatri. 
-
-Currently, working as a permanent part-time Delicatessen Assistant at Rotorua PAK’nSAVE, I have learnt importance of productivity and collaboration. 
+I am a software developer at MVP Studio. I specialize in C#, Java programming language, producing React.js and Front-end websites. My name is Rahul Khatri. 
 
 Now, I aspire to take my knowledge and skills into innovation and programming. I constantly ask questions, try new ideas and always eager to learn. My missions is to develop programmes that would help people move forward.
 
